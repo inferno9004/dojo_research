@@ -31,3 +31,20 @@ Requirements
 ·         Pictures whenever necessary. Also hosted on the same github
 
 
+
+
+![image alt][1]         
+
+
+**VS**
+------
+
+         
+
+
+![image alt][2] 
+
+
+  [1]: https://raw.githubusercontent.com/jupyter/nature-demo/master/images/jupyter-logo.png
+  [2]: https://alexioannides.files.wordpress.com/2016/08/zeppelin1.png?w=640
+
