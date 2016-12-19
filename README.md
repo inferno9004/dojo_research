@@ -56,6 +56,18 @@ Although zeppelin has lesser number of supported kernels, it stands out with its
 
  
 
+Community Support
+-------
+
+ - Zeppelin
+
+    Zeppelin has been around for 1.5 years and it has been in the incubating stage. Although it is by the the Apache foundation, its growth has been relatively slow. The community base for Zeppelin is not huge.
+
+ - Jupyter
+
+    Jupyter has been around for quite some time now. It has existed for 15 years as "Ipython". Since it is older, it has more users which in turn has resulted in a huge community base and support. Another reason why it is more famous can be its support for almost all important kernels. It is able to attract more and more users because of this fact as well.
+
+
 
   [1]: https://raw.githubusercontent.com/jupyter/nature-demo/master/images/jupyter-logo.png
   [2]: https://alexioannides.files.wordpress.com/2016/08/zeppelin1.png?w=640
