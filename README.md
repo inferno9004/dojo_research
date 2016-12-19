@@ -2,8 +2,12 @@
 
 ![image alt][1]  **Vs**           ![image alt][2] 
 
+What is a Notebook ?
+-------
 
-----------
+A Notebook is a web application that allows us to create and share documents that contain live code, equations, visualizations and explanatory text. Some of the common use cases include data cleaning and transformation, numerical simulation, statistical modeling, machine learning etc. Notebooks have become an essential tool in the data science process as they provide the users with a way to carry out operations in a convenient manner.
+
+In the below article, I have compared 2 very famous notebooks namely the Jupyter Notebook which was a product of the Ipython Project 2014 and the Zeppelin notebook is a product of the Apache Foundation.
 
 Installation
 -------
@@ -16,7 +20,7 @@ Installation
 
  - Zeppelin
 
-    On the other hand, installing zeppelin is not an easy job. It has a whole lot of things that need to be taken care of and is an extremely time consuming process as well. It requires maven and many other Java libraries in addition to setting up the OS properly. This is a hard task for someone who doesn't have the required technical know how and it can easily consume time in the order of a few hours.
+    On the other hand, installing Zeppelin is not an easy job. It has a whole lot of things that need to be taken care of and is an extremely time consuming process as well. It requires maven and many other Java libraries in addition to setting up the OS properly. This is a hard task for someone who doesn't have the required technical know how and it can easily consume time in the order of a few hours.
 
 **The winner in the installation department is Jupyter.**
 
@@ -25,12 +29,12 @@ Interface
 
  - Zeppelin
 
-    Zeppelin has a very good UI and is able to provide a range of functionality to the end user. It looks more up to date and modern. It is intuitive to use as well. The frontend  technology stack is more advanced as it has the ability to provide interactive plotting functionality. This enables zeppelin to take data visualisation to another level.
-    An example of visualisation is show below -
+    Zeppelin has a very good UI and is able to provide a range of functionality to the end user. It looks more up to date and modern. It is intuitive to use as well. The frontend  technology stack is more advanced as it has the ability to provide interactive plotting functionality. This enables Zeppelin to take data visualization to another level.
+    An example of visualization is show below -
 
 ![image alt][5]
 
-We can clearly see that zeppelin has good support for spatial data. It has the ability to produce charts just by writing SQL statements or python queries and then choosing an option that we may like. Apart from this ease, what is more important is the fact that these visuals are interactive. This will help in presentations without having to use tools like Tableau.
+We can clearly see that Zeppelin has good support for spatial data. It has the ability to produce charts just by writing SQL statements or python queries and then choosing an option that we may like. Apart from this ease, what is more important is the fact that these visuals are interactive. This will help in presentations without having to use tools like Tableau.
  
  - Jupyter
 
@@ -61,7 +65,7 @@ Language and Kernel Support
 
     Jupyter has a far more support options with [more than 50 supported kernels][8]. Installing these kernels is also an easy task. If one works in an environment which makes use of a lot of languages, then Jupyter is a better choice.
 
-Although zeppelin has lesser number of supported kernels, it stands out with its ability to integrate code from different languages into the same notebook. That is an amazing functionality which is not present in Jupyter. My verdict however is exclusively based on the number of supported languages.
+Although Zeppelin has lesser number of supported kernels, it stands out with its ability to integrate code from different languages into the same notebook. That is an amazing functionality which is not present in Jupyter. My verdict however is exclusively based on the number of supported languages.
 
 **The winner in the language support department is Jupyter.** 
 
@@ -81,11 +85,11 @@ Community Support
 **The winner in terms of community support is Jupyter.** 
 
 
-  [1]: https://www.continuum.io/sites/default/files/logo_jupyter.png
-  [2]: https://alexioannides.files.wordpress.com/2016/08/zeppelin1.png?w=640
+  [1]: https://www.continuum.io/sites/default/files/logo_Jupyter.png
+  [2]: https://alexioannides.files.wordpress.com/2016/08/Zeppelin1.png?w=640
   [3]: https://www.continuum.io/downloads
-  [4]: https://github.com/jupyter/notebook
-  [5]: http://image.slidesharecdn.com/alexfossasia20161-160327121115/95/mining-public-datasets-using-opensource-tools-zeppelin-spark-and-juju-26-638.jpg?cb=1459081331
+  [4]: https://github.com/Jupyter/notebook
+  [5]: http://image.slidesharecdn.com/alexfossasia20161-160327121115/95/mining-public-datasets-using-opensource-tools-Zeppelin-spark-and-juju-26-638.jpg?cb=1459081331
   [6]: https://github.com/ipython/ipython/wiki/IPython-kernels-for-other-languages
   [7]: https://www.packtpub.com/sites/default/files/new_blog_images/Extra_Blogs/notebook_example.png
   [8]: http://itom.bitbucket.org/v2-2-1/docs/_images/matplotlib_intro.png
