@@ -84,9 +84,13 @@ Community Support
 
 **The winner in terms of community support is Jupyter.** 
 
+Conclusion
+-------
 
-  [1]: https://www.continuum.io/sites/default/files/logo_Jupyter.png
-  [2]: https://alexioannides.files.wordpress.com/2016/08/Zeppelin1.png?w=640
+Although Zeppelin may provide some much needed features in terms interactivity but lack of a stronger community base and lesser support for languages emerge as some weaker points. In my view, Jupyter is a better option because of its simplicity, support and acceptance among the users.
+
+  [1]: https://www.continuum.io/sites/default/files/logo_jupyter.png
+  [2]: https://alexioannides.files.wordpress.com/2016/08/zeppelin1.png?w=640
   [3]: https://www.continuum.io/downloads
   [4]: https://github.com/Jupyter/notebook
   [5]: http://image.slidesharecdn.com/alexfossasia20161-160327121115/95/mining-public-datasets-using-opensource-tools-Zeppelin-spark-and-juju-26-638.jpg?cb=1459081331
