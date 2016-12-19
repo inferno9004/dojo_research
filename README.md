@@ -1,50 +1,37 @@
-# dojo_research
-
-This is a research on jupyter notebooks Vs Zepellin Notebooks.
-
-requirements to keep in mind -
-
-
-	
-upyter Notebook vs Zeppelin Notebook
-
-o   Why use one vs the other?
-
-o   Which notebook is better at which kernels?
-
-o   What’s a notebook and why should I use one?
-
-
-Requirements
-·         Assume the audience already knows what Hadoop is
-
-·         It has to be written in markdown
-
-·         You must create a github repository for this and push to it frequently
-
-·         It is recommended as between 300~600 words, but you do not have to conform to this. The bullet lists in the prompts are guiding discussion points, but just stop once you found the written material already exceeds 300~600 words.
-
-·         A logical sequencing of header incrementation (h1, h2, h3 or #, ##, ###)
-
-·         Must use tables, bullets (itemized or emumerated) to convey clarity of points
-
-·         Pictures whenever necessary. Also hosted on the same github
-
-
 
 
 ![image alt][1]         
 
 
-**VS**
+  **Vs**     
 
 
-         
+  ![image alt][2] 
 
 
-![image alt][2] 
+----------
+
+Installation
+-------
+
+ - Jupyter
+
+    Installing Jupyter notebooks on any platform is pretty easy. Most people prefer to use the [anaconda distribution][3] which has been made available by Continuum Analytics. It comes pre loaded with many essential packages in addition to choice of python 2 or 3. 
+
+    The  Anaconda website provides both command line and GUI installers for different platforms making it really comfortable for the user to install. Apart from that, since Jupyter is essentially open source and one can pull from their [github repository][4]. Typical time to install Jupyter and get it up and running will be typically under an hour even for a non technical person. Tech savvy people can accomplish the task in a matter of minutes.
+
+ - Zeppelin
+
+    On the other hand, installing zeppelin is not an easy job. It has a whole lot of things that need to be taken care of and is an extremely time consuming process as well. It requires maven and many other Java libraries in addition to setting up the OS properly. This is a hard task for someone who doesn't have the required technical know how and it can easily consume time in the order of a few hours.
+
+The winner here is Jupyter.
+
+
+
+
 
 
   [1]: https://raw.githubusercontent.com/jupyter/nature-demo/master/images/jupyter-logo.png
   [2]: https://alexioannides.files.wordpress.com/2016/08/zeppelin1.png?w=640
-
+  [3]: https://www.continuum.io/downloads
+  [4]: https://github.com/jupyter/notebook            
