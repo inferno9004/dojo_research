@@ -32,10 +32,27 @@ Interface
  - Zeppelin
 
     Zeppelin has a very good UI and is able to provide a range of functionality to the end user. It looks more up to date and modern. It is intuitive to use as well. The frontend  technology stack is more advanced as it has the ability to provide interactive plotting functionality. This enables zeppelin to take data visualisation to another level.
+    An example of visualisation is show below -
 
+![image alt][5]
+
+We can clearly see that zeppelin has good support for spatial data. It has the ability to produce charts just by writing SQL statements or python queries and then choosing an option that we may like. Apart from this ease, what is more important is the fact that these visuals are interactive. This will help in presentations without having to use tools like Tableau.
+ 
  - Jupyter
 
     Jupyter does not do a good job in this department. The UI is definitely outdated and there is no option to accommodate interactive plotting function. This can be considered as evidence for the fact that the frontend technology stack is outdated as well.
+
+Below are 2 examples of plots in the Jupyter notebook using the matplotlib library.
+
+![image alt][7]
+
+This is an example of a basic plot in the Jupyter notebook. Although the code to generate the plot itself is not a lot, it still requires extra lines of code.
+
+![image alt][8]
+
+This is an example of advanced 3D plotting in Jupyter. In order to achieve something like the first figure, it will require sufficient amount of extra code. 
+
+As stated earlier, Jupyter doesnt support Interactive visualizations.
 
 **The Winner in the UI department is Zeppelin**
 
@@ -48,7 +65,7 @@ Language and Kernel Support
 
  - Jupyter
 
-    Jupyter has a far more support options with [more than 50 supported kernels][5]. Installing these kernels is also an easy task. If one works in an environment which makes use of a lot of languages, then Jupyter is a better choice.
+    Jupyter has a far more support options with [more than 50 supported kernels][8]. Installing these kernels is also an easy task. If one works in an environment which makes use of a lot of languages, then Jupyter is a better choice.
 
 Although zeppelin has lesser number of supported kernels, it stands out with its ability to integrate code from different languages into the same notebook. That is an amazing functionality which is not present in Jupyter. My verdict however is exclusively based on the number of supported languages.
 
@@ -67,10 +84,14 @@ Community Support
 
     Jupyter has been around for quite some time now. It has existed for 15 years as "Ipython". Since it is older, it has more users which in turn has resulted in a huge community base and support. Another reason why it is more famous can be its support for almost all important kernels. It is able to attract more and more users because of this fact as well.
 
+**The winner in terms of community support is Jupyter.** 
 
 
   [1]: https://raw.githubusercontent.com/jupyter/nature-demo/master/images/jupyter-logo.png
   [2]: https://alexioannides.files.wordpress.com/2016/08/zeppelin1.png?w=640
   [3]: https://www.continuum.io/downloads
   [4]: https://github.com/jupyter/notebook
-  [5]: https://github.com/ipython/ipython/wiki/IPython-kernels-for-other-languages
+  [5]: http://image.slidesharecdn.com/alexfossasia20161-160327121115/95/mining-public-datasets-using-opensource-tools-zeppelin-spark-and-juju-26-638.jpg?cb=1459081331
+  [6]: https://github.com/ipython/ipython/wiki/IPython-kernels-for-other-languages
+  [7]: https://www.packtpub.com/sites/default/files/new_blog_images/Extra_Blogs/notebook_example.png
+  [8]: http://itom.bitbucket.org/v2-2-1/docs/_images/matplotlib_intro.png
