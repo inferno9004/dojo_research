@@ -1,12 +1,6 @@
 
 
-![image alt][1]         
-
-
-  **Vs**     
-
-
-  ![image alt][2] 
+![image alt][1]  **Vs**           ![image alt][2] 
 
 
 ----------
@@ -87,7 +81,7 @@ Community Support
 **The winner in terms of community support is Jupyter.** 
 
 
-  [1]: https://raw.githubusercontent.com/jupyter/nature-demo/master/images/jupyter-logo.png
+  [1]: https://www.continuum.io/sites/default/files/logo_jupyter.png
   [2]: https://alexioannides.files.wordpress.com/2016/08/zeppelin1.png?w=640
   [3]: https://www.continuum.io/downloads
   [4]: https://github.com/jupyter/notebook
