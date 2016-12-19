@@ -24,12 +24,20 @@ Installation
 
     On the other hand, installing zeppelin is not an easy job. It has a whole lot of things that need to be taken care of and is an extremely time consuming process as well. It requires maven and many other Java libraries in addition to setting up the OS properly. This is a hard task for someone who doesn't have the required technical know how and it can easily consume time in the order of a few hours.
 
-The winner here is Jupyter.
+**The winner here is Jupyter.**
 
+Interface
+-------
 
+ - Zeppelin
 
+    Zeppelin has a very good UI and is able to provide a range of functionality to the end user. It looks more up to date and modern. It is intuitive to use as well. The frontend  technology stack is more advanced as it has the ability to provide interactive functionality.
 
+ - Jupyter
 
+    Jupyter does not do a good job in this department. The UI is definitely outdated and there is no option to accommodate interactive function. This can be considered as evidence for the fact that the frontend technology stack is outdated as well.
+
+**The Winner in the UI department is Zeppelin**
 
   [1]: https://raw.githubusercontent.com/jupyter/nature-demo/master/images/jupyter-logo.png
   [2]: https://alexioannides.files.wordpress.com/2016/08/zeppelin1.png?w=640
