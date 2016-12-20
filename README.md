@@ -97,3 +97,4 @@ Although Zeppelin may provide some much needed features in terms interactivity b
   [6]: https://github.com/ipython/ipython/wiki/IPython-kernels-for-other-languages
   [7]: https://www.packtpub.com/sites/default/files/new_blog_images/Extra_Blogs/notebook_example.png
   [8]: http://itom.bitbucket.org/v2-2-1/docs/_images/matplotlib_intro.png
+
